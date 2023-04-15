@@ -11,3 +11,5 @@ Select a letter to figure out a hidden word in a set amount of chances
 - Show notification when select a letter twice
 - Show popup on win or lose
 - Play again button to reset game
+
+![hangman](https://user-images.githubusercontent.com/122348430/232210447-f5eaf12a-bf5b-4d70-9b74-e37e5901376d.png)
